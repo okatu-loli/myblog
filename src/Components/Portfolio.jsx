@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Motivational-Workspace.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Modern workspace with Apple iMac displaying 'DO MORE.' text, surrounded by stationery, books, a camera, and a hanging plant in a well-lit room.";
 
 /**
  * Project list
@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "学习Go语言，这些坑你都遇到过吗？",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A comprehensive guide to pitfalls encountered when learning Go, aimed at equipping beginners with practical insights.",
+    url: "https://juejin.cn/post/7271176998025592886",
   },
   {
-    title: "Web Development for Beginners",
+    title: "我为何选择申请微软学生大使",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A reflective piece on my journey and motivation behind choosing to apply for the Microsoft Student Ambassador program.",
+    url: "https://cnqs.moe/posts/choosing-ms-student-ambassador/",
   },
 ];
 
